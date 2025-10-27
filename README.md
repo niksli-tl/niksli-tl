@@ -11,6 +11,12 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 - SQL - Intermediate
 - C++ - Learning
 
+
+### 💻 Languages and Tools
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 ### **Technologies & Tools**
 ```python
 {
@@ -19,6 +25,3 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
     "databases": ["MySQL", "SQLite"],
 }
 
-### 💻 Languages and Tools
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
