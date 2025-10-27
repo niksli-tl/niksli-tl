@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Elizaveta
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-**IT & Programming Student** | Python Developer
+<h3 align="center">IT & Programming Student from Russia</h3>
 
 Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and continuously learning new technologies in the field of information technology.
 
